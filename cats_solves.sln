@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cats_solves", "cats_solves\cats_solves.vcxproj", "{DCCCB219-5ABB-472C-B05F-C2288B75146D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCCCB219-5ABB-472C-B05F-C2288B75146D}.Debug|x64.ActiveCfg = Debug|x64
+		{DCCCB219-5ABB-472C-B05F-C2288B75146D}.Debug|x64.Build.0 = Debug|x64
+		{DCCCB219-5ABB-472C-B05F-C2288B75146D}.Debug|x86.ActiveCfg = Debug|Win32
+		{DCCCB219-5ABB-472C-B05F-C2288B75146D}.Debug|x86.Build.0 = Debug|Win32
+		{DCCCB219-5ABB-472C-B05F-C2288B75146D}.Release|x64.ActiveCfg = Release|x64
+		{DCCCB219-5ABB-472C-B05F-C2288B75146D}.Release|x64.Build.0 = Release|x64
+		{DCCCB219-5ABB-472C-B05F-C2288B75146D}.Release|x86.ActiveCfg = Release|Win32
+		{DCCCB219-5ABB-472C-B05F-C2288B75146D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A107878E-01DF-4EF8-81F5-4DF26620F3CD}
+	EndGlobalSection
+EndGlobal
