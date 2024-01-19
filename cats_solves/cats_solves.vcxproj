@@ -152,7 +152,9 @@
     <ClCompile Include="E4.cpp" />
     <ClCompile Include="E5.cpp" />
     <ClCompile Include="E6.cpp" />
+    <ClCompile Include="E8.cpp" />
     <ClCompile Include="G5.cpp" />
+    <ClCompile Include="G6.cpp" />
     <ClCompile Include="G7.cpp" />
     <ClCompile Include="I1.cpp" />
     <ClCompile Include="I2.cpp" />
