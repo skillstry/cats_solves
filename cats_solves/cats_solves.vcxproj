@@ -161,6 +161,7 @@
     <ClCompile Include="I3.cpp" />
     <ClCompile Include="J1.cpp" />
     <ClCompile Include="J2.cpp" />
+    <ClCompile Include="Z1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
